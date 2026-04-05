@@ -174,3 +174,49 @@ lang = "zh"
 # name = "虎嗅"
 # url = "https://www.huxiu.com/rss/0.xml"
 # lang = "zh"
+
+# ── 微信公众号（via WeWe RSS）────────────────────────────────
+[[feeds]]
+name = "数字生命卡兹克"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3223096120.atom"
+lang = "zh"
+
+[[feeds]]
+name = "卡尔的AI沃茨"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3871977637.atom"
+lang = "zh"
+
+[[feeds]]
+name = "饼干哥哥AGI"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_2394281674.atom"
+lang = "zh"
+
+[[feeds]]
+name = "刘小排r"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3251517810.atom"
+lang = "zh"
+
+[[feeds]]
+name = "沃垠AI"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3201599457.atom"
+lang = "zh"
+
+[[feeds]]
+name = "AGI Hunt"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3087832081.atom"
+lang = "zh"
+
+[[feeds]]
+name = "一泽Eze"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3234547650.atom"
+lang = "zh"
+
+[[feeds]]
+name = "赛博禅心"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3934419561.atom"
+lang = "zh"
+
+[[feeds]]
+name = "第二曲线增长"
+url = "https://app-production-ad4a.up.railway.app/feeds/MP_WXS_3293993092.atom"
+lang = "zh"
