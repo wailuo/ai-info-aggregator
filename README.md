@@ -89,7 +89,7 @@
 
 ---
 
-## 信息源（31个）
+## 信息源（40个）
 
 覆盖中英文，按方向分类：
 
@@ -102,6 +102,7 @@
 | 商业趋势 | Trends.vc · Product Hunt |
 | AI + 电商 | Practical Ecommerce · Shopify Blog · Marketing AI Institute · SEJ Ecommerce · eCommerceFuel · eCommerceBytes |
 | 中文媒体 | 量子位 · 机器之心 · 36氪 · 少数派 · 爱范儿 · 极客公园 · 晚点 LatePost |
+| 微信公众号 | 数字生命卡兹克 · 卡尔的AI沃茨 · 饼干哥哥AGI · 刘小排r · 沃垠AI · AGI Hunt · 一泽Eze · 赛博禅心 · 第二曲线增长 |
 
 在 `feeds.toml` 中增删信息源：
 
